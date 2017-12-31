@@ -1,0 +1,17 @@
+[
+    {
+    "placeholder":"Directory name to backup. Leave blank to backup entire home directory",
+    "format":"string",
+    "type": "text",
+    "isMandatory": "false",
+    "name": "SRCDIR"
+    },
+    {
+    "placeholder":"Backup Now",
+    "format":"button",
+    "type": "submit",
+    "isMandatory": "true",
+    "name" : "submit",
+    "value": "Backup now"
+    }
+]
