@@ -46,4 +46,4 @@ fi
 cd ~
 
 tar -cpzf $DESDIR/$FILENAME $SRCDIR
-echo "Backed up Successfully at $HOME/$DIR/$FILENAME"
+echo "Backed up Successfully at $HOME/$DIR/$FILENAME Download it to your local computer using an sFTP client."
